@@ -1,0 +1,153 @@
+Package^LibPath^Version^Priority^Built
+acepack^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.4.1^^3.5.2
+assertthat^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.2.0^^3.5.2
+backports^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.1.3^^3.5.2
+base64enc^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.1-3^^3.5.2
+BH^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.69.0-1^^3.5.2
+bindr^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.1.1^^3.5.2
+bindrcpp^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.2.2^^3.5.2
+bitops^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.0-6^^3.5.2
+broom^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.5.1^^3.5.2
+callr^C:/Users/michael.flanigan/Documents/R/win-library/3.5^3.1.1^^3.5.2
+caret^C:/Users/michael.flanigan/Documents/R/win-library/3.5^6.0-81^^3.5.2
+caTools^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.17.1.1^^3.5.2
+cellranger^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.1.0^^3.5.2
+checkmate^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.9.0^^3.5.2
+cli^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.0.1^^3.5.2
+clipr^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.5.0^^3.5.2
+clisymbols^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.2.0^^3.5.2
+colorspace^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.3-2^^3.5.2
+crayon^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.3.4^^3.5.2
+curl^C:/Users/michael.flanigan/Documents/R/win-library/3.5^3.3^^3.5.2
+data.table^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.11.8^^3.5.2
+DBI^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.0.0^^3.5.2
+dbplyr^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.3.0^^3.5.2
+desc^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.2.0^^3.5.2
+devtools^C:/Users/michael.flanigan/Documents/R/win-library/3.5^2.0.1^^3.5.2
+digest^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.6.18^^3.5.2
+dplyr^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.7.8^^3.5.2
+evaluate^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.12^^3.5.2
+fansi^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.4.0^^3.5.2
+forcats^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.3.0^^3.5.2
+foreach^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.4.4^^3.5.2
+formattable^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.2.0.1^^3.5.2
+Formula^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.2-3^^3.5.2
+fs^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.2.6^^3.5.2
+generics^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.0.2^^3.5.2
+ggplot2^C:/Users/michael.flanigan/Documents/R/win-library/3.5^3.1.0^^3.5.2
+gh^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.0.1^^3.5.2
+git2r^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.24.0^^3.5.2
+glue^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.3.0^^3.5.2
+gower^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.1.2^^3.5.2
+gridExtra^C:/Users/michael.flanigan/Documents/R/win-library/3.5^2.3^^3.5.2
+gtable^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.2.0^^3.5.2
+haven^C:/Users/michael.flanigan/Documents/R/win-library/3.5^2.0.0^^3.5.2
+here^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.1^^3.5.2
+highr^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.7^^3.5.2
+Hmisc^C:/Users/michael.flanigan/Documents/R/win-library/3.5^4.1-1^^3.5.2
+hms^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.4.2^^3.5.2
+htmlTable^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.13.1^^3.5.2
+htmltools^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.3.6^^3.5.2
+htmlwidgets^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.3^^3.5.2
+httr^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.4.0^^3.5.2
+ini^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.3.1^^3.5.2
+ipred^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.9-8^^3.5.2
+iterators^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.0.10^^3.5.2
+jsonlite^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.6^^3.5.2
+knitr^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.21^^3.5.2
+labeling^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.3^^3.5.2
+latticeExtra^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.6-28^^3.5.2
+lava^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.6.4^^3.5.2
+lazyeval^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.2.1^^3.5.2
+lubridate^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.7.4^^3.5.2
+magrittr^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.5^^3.5.2
+markdown^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.9^^3.5.2
+memoise^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.1.0^^3.5.2
+mime^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.6^^3.5.2
+ModelMetrics^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.2.2^^3.5.2
+modelr^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.1.2^^3.5.2
+munsell^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.5.0^^3.5.2
+numDeriv^C:/Users/michael.flanigan/Documents/R/win-library/3.5^2016.8-1^^3.5.2
+openssl^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.1^^3.5.2
+pillar^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.3.1^^3.5.2
+pkgbuild^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.0.2^^3.5.2
+pkgconfig^C:/Users/michael.flanigan/Documents/R/win-library/3.5^2.0.2^^3.5.2
+pkgload^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.0.2^^3.5.2
+plogr^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.2.0^^3.5.2
+plyr^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.8.4^^3.5.2
+prettyunits^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.0.2^^3.5.2
+processx^C:/Users/michael.flanigan/Documents/R/win-library/3.5^3.2.1^^3.5.2
+prodlim^C:/Users/michael.flanigan/Documents/R/win-library/3.5^2018.04.18^^3.5.2
+progress^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.2.0^^3.5.2
+ps^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.3.0^^3.5.2
+purrr^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.2.5^^3.5.2
+R6^C:/Users/michael.flanigan/Documents/R/win-library/3.5^2.3.0^^3.5.2
+rcmdcheck^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.3.2^^3.5.2
+RColorBrewer^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.1-2^^3.5.2
+Rcpp^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.0.0^^3.5.2
+RcppRoll^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.3.0^^3.5.2
+readr^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.3.1^^3.5.2
+readxl^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.2.0^^3.5.2
+recipes^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.1.4^^3.5.2
+rematch^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.0.1^^3.5.2
+remotes^C:/Users/michael.flanigan/Documents/R/win-library/3.5^2.0.2^^3.5.2
+reprex^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.2.1^^3.5.2
+reshape2^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.4.3^^3.5.2
+rlang^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.3.1^^3.5.2
+rmarkdown^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.11^^3.5.2
+rprojroot^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.3-2^^3.5.2
+rstudioapi^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.9.0^^3.5.2
+rvest^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.3.2^^3.5.2
+scales^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.0.0^^3.5.2
+selectr^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.4-1^^3.5.2
+sessioninfo^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.1.1^^3.5.2
+SQUAREM^C:/Users/michael.flanigan/Documents/R/win-library/3.5^2017.10-1^^3.5.2
+stringi^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.2.4^^3.5.2
+stringr^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.3.1^^3.5.2
+tibble^C:/Users/michael.flanigan/Documents/R/win-library/3.5^2.0.1^^3.5.2
+tidyr^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.8.2^^3.5.2
+tidyselect^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.2.5^^3.5.2
+tidyverse^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.2.1^^3.5.2
+timeDate^C:/Users/michael.flanigan/Documents/R/win-library/3.5^3043.102^^3.5.2
+tinytex^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.10^^3.5.2
+usethis^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.4.0^^3.5.2
+utf8^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.1.4^^3.5.2
+viridis^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.5.1^^3.5.2
+viridisLite^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.3.0^^3.5.2
+whisker^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.3-2^^3.5.2
+withr^C:/Users/michael.flanigan/Documents/R/win-library/3.5^2.1.2^^3.5.2
+xfun^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.4^^3.5.2
+xgboost^C:/Users/michael.flanigan/Documents/R/win-library/3.5^0.71.2^^3.5.2
+xml2^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.2.0^^3.5.2
+xopen^C:/Users/michael.flanigan/Documents/R/win-library/3.5^1.0.0^^3.5.2
+yaml^C:/Users/michael.flanigan/Documents/R/win-library/3.5^2.2.0^^3.5.2
+base^C:/Program Files/R/R-3.5.2/library^3.5.2^base^3.5.2
+boot^C:/Program Files/R/R-3.5.2/library^1.3-20^recommended^3.5.2
+class^C:/Program Files/R/R-3.5.2/library^7.3-14^recommended^3.5.2
+cluster^C:/Program Files/R/R-3.5.2/library^2.0.7-1^recommended^3.5.2
+codetools^C:/Program Files/R/R-3.5.2/library^0.2-15^recommended^3.5.2
+compiler^C:/Program Files/R/R-3.5.2/library^3.5.2^base^3.5.2
+datasets^C:/Program Files/R/R-3.5.2/library^3.5.2^base^3.5.2
+foreign^C:/Program Files/R/R-3.5.2/library^0.8-71^recommended^3.5.2
+graphics^C:/Program Files/R/R-3.5.2/library^3.5.2^base^3.5.2
+grDevices^C:/Program Files/R/R-3.5.2/library^3.5.2^base^3.5.2
+grid^C:/Program Files/R/R-3.5.2/library^3.5.2^base^3.5.2
+KernSmooth^C:/Program Files/R/R-3.5.2/library^2.23-15^recommended^3.5.2
+lattice^C:/Program Files/R/R-3.5.2/library^0.20-38^recommended^3.5.2
+MASS^C:/Program Files/R/R-3.5.2/library^7.3-51.1^recommended^3.5.2
+Matrix^C:/Program Files/R/R-3.5.2/library^1.2-15^recommended^3.5.2
+methods^C:/Program Files/R/R-3.5.2/library^3.5.2^base^3.5.2
+mgcv^C:/Program Files/R/R-3.5.2/library^1.8-26^recommended^3.5.2
+nlme^C:/Program Files/R/R-3.5.2/library^3.1-137^recommended^3.5.2
+nnet^C:/Program Files/R/R-3.5.2/library^7.3-12^recommended^3.5.2
+parallel^C:/Program Files/R/R-3.5.2/library^3.5.2^base^3.5.2
+rpart^C:/Program Files/R/R-3.5.2/library^4.1-13^recommended^3.5.2
+spatial^C:/Program Files/R/R-3.5.2/library^7.3-11^recommended^3.5.2
+splines^C:/Program Files/R/R-3.5.2/library^3.5.2^base^3.5.2
+stats^C:/Program Files/R/R-3.5.2/library^3.5.2^base^3.5.2
+stats4^C:/Program Files/R/R-3.5.2/library^3.5.2^base^3.5.2
+survival^C:/Program Files/R/R-3.5.2/library^2.43-3^recommended^3.5.2
+tcltk^C:/Program Files/R/R-3.5.2/library^3.5.2^base^3.5.2
+tools^C:/Program Files/R/R-3.5.2/library^3.5.2^base^3.5.2
+translations^C:/Program Files/R/R-3.5.2/library^3.5.2^^3.5.2
+utils^C:/Program Files/R/R-3.5.2/library^3.5.2^base^3.5.2
