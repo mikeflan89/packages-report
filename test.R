@@ -1,3 +1,7 @@
+#' ---
+#' output: github_document
+#' ---
+
 library(ggplot2)
 library(dplyr)
 data("mtcars")
